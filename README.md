@@ -63,7 +63,7 @@ You have three main options for building your portfolio. Choose the one that bes
 
 #### Option A: HTML5 UP Templates
 
-1. Go to [HTML5 UP](https://html5up.net/) and browse the templates.
+1. Go to [HTML5 UP](https://html5up.net/) and browse the templates. My [website](https://manasvishal.github.io/) uses [Editorial theme](https://html5up.net/editorial) 
 2. Download the template you like, unzip it, and move its contents to your cloned repository.
 3. Customize the HTML and CSS to reflect your personal information.
 
@@ -147,7 +147,7 @@ Once you’re happy with your website, it’s time to deploy!
 - **Jekyll Documentation**: [Jekyll Docs](https://jekyllrb.com/docs/)
 - **Hugo Documentation**: [Hugo Docs](https://gohugo.io/documentation/)
 
-For help, reach out in the event Slack channel or use the Issues section in this repository.
+For help, reach out in the Slack channel or DM.
 
 ---
 
