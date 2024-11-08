@@ -75,6 +75,10 @@ You have three main options for building your portfolio. Choose the one that bes
 2. Download the template you like, unzip it, and move its contents to your cloned repository.
 3. Customize the HTML and CSS to reflect your personal information.
 
+More resources:
+- Standalone picocss templates : https://picocss.com/examples
+- 100 templates : https://technext.github.io/100-template-bundle/
+
 
 #### Option C: Jekyll
 
@@ -97,6 +101,10 @@ You have three main options for building your portfolio. Choose the one that bes
 More resources: 
 - A comprehensive guide:  https://blog.christianposta.com/theme-setup/
 - Another one:  https://www.pwills.com/posts/2017/12/20/website.html
+- https://jamstackthemes.dev/theme/jekyll-professional-resume/
+- https://jekyll-theme-minimal-resume.netlify.app/ https://github.com/murraco/jekyll-theme-minimal-resume
+- https://jamstackthemes.dev/theme/jekyll-online-cv/
+- https://ddbullfrog.github.io/resumecard/
 
 #### Option D: Hugo
 
@@ -149,6 +157,11 @@ Once you’re happy with your website, it’s time to deploy!
    - Under **Source**, choose the `main` branch and save.
 
 3. After a few minutes, your site will be live at `https://yourusername.github.io/your-repo-name`.
+
+More resources:
+- https://www.arnoudplantinga.nl/post/getting-started/
+- https://matteocourthoud.github.io/post/website/
+- https://lakemper.eu/blog/getting-started-with-hugo-academic-and-github-pages/
 
 > **Note**: If using Jekyll or Hugo, make sure your `_config.yml` or `config.toml` file is configured correctly for GitHub Pages.
 
