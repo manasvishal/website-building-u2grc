@@ -61,13 +61,22 @@ You have three main options for building your portfolio. Choose the one that bes
 
 ### Step 3: Set Up Your Website with HTML5 UP, Jekyll, or Hugo
 
-#### Option A: HTML5 UP Templates
+
+#### Option A: Wordpress
+
+1. Go to UMassD's word press [server](https://sites.umassd.edu/)
+2. Login with your UMassD's credentials.
+3. Choose a theme, add content and deploy the website.
+
+
+#### Option B: HTML5 UP Templates
 
 1. Go to [HTML5 UP](https://html5up.net/) and browse the templates. My [website](https://manasvishal.github.io/) uses [Editorial theme](https://html5up.net/editorial) 
 2. Download the template you like, unzip it, and move its contents to your cloned repository.
 3. Customize the HTML and CSS to reflect your personal information.
 
-#### Option B: Jekyll
+
+#### Option C: Jekyll
 
 1. Install Jekyll by following [these instructions](https://jekyllrb.com/docs/installation/).
 2. Create a new Jekyll site:
@@ -85,7 +94,11 @@ You have three main options for building your portfolio. Choose the one that bes
 
 5. Access the site at `http://localhost:4000` to see your progress.
 
-#### Option C: Hugo
+More resources: 
+- A comprehensive guide:  https://blog.christianposta.com/theme-setup/
+- Another one:  https://www.pwills.com/posts/2017/12/20/website.html
+
+#### Option D: Hugo
 
 1. Install Hugo by following [these instructions](https://gohugo.io/getting-started/installing/).
 2. Create a new Hugo site:
