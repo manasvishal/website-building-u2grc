@@ -8,6 +8,7 @@ This repository is here to help you build your personal academic portfolio websi
 > 💡 *Feel free to choose the tools that best suit your skills and style. Each option has its own setup instructions.*
 
 ---
+Tip: My [webpage](https://manasvishal.github.io/) uses [Hugo Academic CV Template](https://github.com/HugoBlox/theme-academic-cv) 
 
 ### Table of Contents
 
